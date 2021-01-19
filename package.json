@@ -1,4 +1,14 @@
 {
+    "name": "siftr",
+    "version": "1.0.0",
+    "description":
+    "siftr website",
+    "main": "index.html",
+    "author": "Spencer Wilson",
+    "license": "MIT",
+    "scripts": {
+    "test": "scripts/test"
+      },
     "dependencies": {
         "bootstrap": "4.5.3",
         "bootstrap-social": "^5.1.1",
