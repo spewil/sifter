@@ -2,6 +2,6 @@
 
 *research platform for zoomers*
 
-[landing page](www.spewil.com/siftr/)
+[landing page](https://www.spewil.com/siftr/)
 
 
