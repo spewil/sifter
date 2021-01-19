@@ -2,6 +2,9 @@ sudo: false
 language: node_js
 node_js:
   - "node"
+before_script:
+  - yarn global add gulp-cli
+script: gulp
 cache:
   directories:
     - node_modules
