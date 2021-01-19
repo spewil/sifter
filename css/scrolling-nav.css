@@ -12,6 +12,9 @@ section {
 }
 
 .name {
-	text-decoration: underline;
-	
+	text-decoration: underline;	
+}
+
+ul.no-bullets {
+  list-style-type: none; 
 }
