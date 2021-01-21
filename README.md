@@ -1,4 +1,4 @@
-# siftr
+# sifter
 
 *research platform for zoomers*
 
