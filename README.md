@@ -2,6 +2,6 @@
 
 *research platform for zoomers*
 
-[landing page](www.sifter.uk)
+[landing page](http://www.sifter.uk)
 
 
