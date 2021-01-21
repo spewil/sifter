@@ -1,20 +1,20 @@
 {
     "name": "siftr",
     "version": "1.0.0",
-    "description":
-    "siftr website",
+    "description": "siftr website",
     "main": "index.html",
     "author": "Spencer Wilson",
     "license": "MIT",
     "scripts": {
-    "test": "scripts/test"
-      },
+        "test": "scripts/test"
+    },
     "dependencies": {
         "bootstrap": "4.5.3",
         "bootstrap-social": "^5.1.1",
         "font-awesome": "^4.7.0",
         "jquery": "3.5.1",
-        "jquery.easing": "^1.4.1"
+        "jquery.easing": "^1.4.1",
+        "serve": "^11.3.2"
     },
     "devDependencies": {
         "browser-sync": "2.26.13",
