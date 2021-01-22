@@ -1,7 +1,7 @@
 {
-    "name": "siftr",
+    "name": "sifter",
     "version": "1.0.0",
-    "description": "siftr website",
+    "description": "sifter website",
     "main": "index.html",
     "author": "Spencer Wilson",
     "license": "MIT",
