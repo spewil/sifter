@@ -6,7 +6,8 @@
     "author": "Spencer Wilson",
     "license": "MIT",
     "scripts": {
-        "test": "scripts/test"
+        "test": "scripts/test",
+        "start": "webpack serve"
     },
     "dependencies": {
         "bootstrap": "4.5.3",
@@ -14,7 +15,11 @@
         "font-awesome": "^4.7.0",
         "jquery": "3.5.1",
         "jquery.easing": "^1.4.1",
-        "serve": "^11.3.2"
+        "serve": "^11.3.2",
+        "start": "^5.1.0",
+        "webpack": "^5.17.0",
+        "webpack-cli": "^4.4.0",
+        "webpack-dev-server": "^3.11.2"
     },
     "devDependencies": {
         "browser-sync": "2.26.13",
